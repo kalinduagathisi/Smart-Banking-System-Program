@@ -1,0 +1,24 @@
+1)Create a class named AccountHolder.java with the following class attributes.
+    Account holder's,
+            first name
+            last name
+            date of birth
+            NIC number
+            name of the branch
+            code of the branch
+            initial deposit amount
+            account number
+            current balance
+
+2)Create a another class named Bank.java and implement following methods. Each new bank account created should be
+  stored in a list or any other similar container.
+
+  methods:
+      create a new account
+      view account details
+      deposit money
+      withdraw money
+      check current balance
+      apply for a loan (to apply, current balance>10,000 usd )
+
+3)Implement a menu and call relevant methods with appropriate menu options inside a class with main().
